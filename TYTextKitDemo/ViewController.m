@@ -14,6 +14,8 @@
 #import "TextViewDemoController.h"
 #import "TextAutolayoutController.h"
 
+#define Tongleiming (100)
+
 @interface tableViewItem : NSObject
 
 @property (nonatomic, strong) NSString *title;
